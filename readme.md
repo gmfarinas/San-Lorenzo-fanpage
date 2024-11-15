@@ -1,0 +1,2 @@
+El proyecto consiste en crear una fanpage del club San Lorenzo de Almagro. Esta debe ser adaptativa y responsive. 
+Los enlaces de redes sociales y las noticias de la página principal son tomadas de la página oficial del club a modo de ejemplo. Tambien las imagenes de las cards en la sección "jugadores".
